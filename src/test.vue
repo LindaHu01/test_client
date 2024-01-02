@@ -1,7 +1,7 @@
 <template>
     <div id="app">
       <img alt="Vue logo" src="./assets/logo.png">
-      <el-button type="primary">添加了888ff287872221224444244411一个测试页面</el-button>
+      <el-button type="primary">添加了88444244411一个测试页面</el-button>
       <HelloWorld msg="Welcome to Your Vue.js App"/>
     </div>
   </template>
