@@ -1,7 +1,7 @@
 <template>
     <div id="app">
       <img alt="Vue logo" src="./assets/logo.png">
-      <el-button type="primary">个9914</el-button>
+      <el-button type="primary">?9914</el-button>
       <el-button type="primary">8777714</el-button>
       <HelloWorld msg="Welcome to Your Vue.js App"/>
     </div>
