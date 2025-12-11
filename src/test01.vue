@@ -2,7 +2,7 @@
     <div id="app">
       <img alt="Vue logo" src="./assets/logo.png">
       <el-button type="primary">88783rrrthffu914</el-button>
-      <el-button type="primary">87777fff14</el-button>
+      <el-button type="primary">877714</el-button>
       <HelloWorld msg="Welcome to Your Vue.js App"/>
     </div>
   </template>
